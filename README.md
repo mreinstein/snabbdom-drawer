@@ -2,7 +2,7 @@
 
 a snabbdom based nav drawer
 
-![alt text](scr1.png "open nav drawer")
+![alt text](scr2.png "open nav drawer")
 
 
 ## usage
