@@ -8,7 +8,7 @@ a snabbdom based nav drawer
 ## usage
 
 ```javascript
-import html   from 'https://cdn.jsdelivr.net/npm/snabby@1/snabby.js'
+import html   from 'https://cdn.jsdelivr.net/npm/snabby@2/snabby.js'
 import drawer from './drawer.js'
 
 
