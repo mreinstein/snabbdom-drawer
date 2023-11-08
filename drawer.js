@@ -1,4 +1,4 @@
-import html from 'https://cdn.skypack.dev/pin/snabby@v6.0.0-WiE7uSuyNsVpelxkVjF8/mode=imports,min/optimized/snabby.js'
+import html from 'https://cdn.skypack.dev/pin/snabby@v6.1.0-zapIMSOZjVJrawoQIkB4/mode=imports,min/optimized/snabby.js'
 
 
 function init (options={}) {
